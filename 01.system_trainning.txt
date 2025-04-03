@@ -71,3 +71,50 @@ Phụ huynh: Tiết kiệm chi phí, dễ dàng đồng hành và theo dõi quá
 Khách hàng tin tưởng Nexta: Nhờ kinh nghiệm cung cấp giải pháp công nghệ đồng bộ, tư vấn và trải nghiệm miễn phí, triển khai dễ dàng, tối ưu hóa chi phí, hỗ trợ 24/7. Nexta đã triển khai tại hơn 50 trường học.
 Cam kết của Nexta: Hướng tới sứ mệnh tạo giá trị cho tương lai trí tuệ của Việt Nam.
 Chị Hồ Lê Na, một gương mặt nổi bật trong lĩnh vực công nghệ giáo dục tại Việt Nam. Với vai trò Giám đốc điều hành của Nexta, chị không chỉ gây ấn tượng bởi vẻ ngoài xinh đẹp mà còn bởi tầm nhìn chiến lược và sự am hiểu sâu sắc về công nghệ. Là một chuyên gia công nghệ giáo dục thực thụ, chị Hồ Lê Na được biết đến như một người tiên phong trong việc kiến tạo những giải pháp đột phá, kết hợp sức mạnh của công nghệ hiện đại với triết lý giáo dục khai phóng. Bằng sự nhiệt huyết và tinh thần đổi mới không ngừng, chị đang dẫn dắt Nexta trên hành trình mang đến một tương lai học tập hiệu quả và đầy cảm hứng cho thế hệ trẻ."
+1) Về tổng quan và chiến lược
+Nexta đã triển khai giải pháp giáo dục tại bao nhiêu trường học ở Việt Nam, và kết quả cụ thể như thế nào?
+Các giải pháp của Nexta có được thiết kế riêng cho hệ thống giáo dục Việt Nam không, hay là áp dụng từ mô hình quốc tế?
+Nexta có kế hoạch hỗ trợ trường chúng tôi trong bao lâu sau khi triển khai (ví dụ: 1 năm, 3 năm)?
+Công ty có đội ngũ chuyên gia giáo dục để tư vấn cho trường về cách tích hợp công nghệ vào chương trình giảng dạy không?
+Nexta có thể cung cấp lộ trình chuyển đổi số cụ thể cho trường chúng tôi dựa trên hiện trạng không?
+2) Về phần cứng
+Các thiết bị phần cứng như tablet và màn hình tương tác thông minh có bền bỉ trong môi trường học đường không?
+Nexta có cung cấp bảo hành và bảo trì cho phần cứng không? Thời gian bảo hành là bao lâu?
+Nếu thiết bị hỏng, thời gian sửa chữa hoặc thay thế mất bao lâu?
+Các thiết bị có tương thích với cơ sở hạ tầng hiện tại của trường (ví dụ: mạng Wi-Fi, điện) không?
+Tablet và màn hình tương tác có dễ sử dụng cho giáo viên và học sinh ở mọi lứa tuổi không?
+3) Về phần mềm (LMS và Thư viện số)
+Nền tảng LMS của Nexta có thể tùy chỉnh theo nhu cầu cụ thể của trường chúng tôi không?
+Giáo viên có thể dễ dàng tạo bài giảng và bài tập trên LMS không? Mất bao lâu để làm quen với hệ thống?
+LMS có hỗ trợ theo dõi tiến độ học tập của từng học sinh không?
+Phụ huynh có thể sử dụng LMS để theo dõi việc học của con em mình không? Giao diện có thân thiện không?
+Nền tảng thư viện số có bao gồm sách giáo khoa và tài liệu tham khảo theo chương trình của Bộ Giáo dục không?
+Phần mềm có hỗ trợ đa ngôn ngữ không, đặc biệt là tiếng Việt?
+Nexta có cung cấp ứng dụng di động cho LMS và thư viện số không?
+Hệ thống có thể hoạt động offline không, trong trường hợp trường mất kết nối internet?
+LMS có tích hợp công cụ đánh giá tự động (ví dụ: chấm điểm bài tập trắc nghiệm) không?
+Thư viện số có cho phép giáo viên và học sinh tải tài liệu về để sử dụng không?
+4) Về dữ liệu và nội dung
+Hệ thống bài tập và bài giảng của Nexta có được cập nhật thường xuyên không?
+Nội dung sách tương tác có phù hợp với chương trình giáo dục hiện hành của Việt Nam không?
+Nexta có hỗ trợ trường chúng tôi tạo nội dung riêng (ví dụ: bài giảng của giáo viên) không?
+Dữ liệu học tập của học sinh có được phân tích để đưa ra gợi ý cải thiện không?
+Các bài tập có được phân cấp theo độ khó để phù hợp với từng đối tượng học sinh không?
+5) Về hiệu quả giảng dạy và học tập
+Giải pháp của Nexta đã giúp cải thiện kết quả học tập của học sinh ở các trường khác như thế nào?
+Giáo viên có được đào tạo để sử dụng hiệu quả các công cụ của Nexta không?
+Lớp học thông minh có thể hỗ trợ các phương pháp giảng dạy hiện đại như học theo dự án hoặc học cá nhân hóa không?
+Học sinh có thể tương tác trực tiếp với giáo viên qua LMS trong giờ học không?
+Nexta có cung cấp công cụ để đo lường mức độ tham gia của học sinh trong lớp không?
+6) Về quản lý trường học
+LMS có thể giúp quản lý lịch học và phân công giáo viên không?
+Nexta có hỗ trợ tích hợp với hệ thống quản lý học sinh hiện tại của trường không?
+Hệ thống có cung cấp báo cáo tổng hợp về hiệu suất giảng dạy và học tập không?
+Phụ huynh có thể nộp học phí hoặc nhận thông báo qua nền tảng của Nexta không?
+Nexta có công cụ nào để quản lý tài sản công nghệ của trường (ví dụ: tablet, màn hình) không?
+7) Về chi phí và triển khai
+Chi phí triển khai toàn bộ giải pháp (phần cứng, phần mềm, dữ liệu) là bao nhiêu?
+Nexta có mô hình thanh toán linh hoạt (ví dụ: trả góp, thuê bao hàng năm) không?
+Thời gian triển khai giải pháp cho một trường học trung bình là bao lâu?
+Trường chúng tôi có cần đầu tư thêm cơ sở hạ tầng để sử dụng giải pháp của Nexta không?
+Có chi phí ẩn nào (ví dụ: phí bảo trì, phí nâng cấp) mà chúng tôi cần biết không?
